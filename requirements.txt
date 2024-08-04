@@ -6,4 +6,6 @@ notebook
 pandas
 numpy 
 
-
+# Data visualisation
+matplotlib
+seaborn
